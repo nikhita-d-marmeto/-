@@ -1,0 +1,1088 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_VP3dgf": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.51.49_PM.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_P9tR9n": {
+          "type": "slide",
+          "settings": {
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_ihMTGK": {
+          "type": "slide",
+          "settings": {
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_VP3dgf",
+        "slide_P9tR9n",
+        "slide_ihMTGK"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_dots",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 3,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_QKkcCk": {
+          "type": "collection",
+          "settings": {
+            "collection": "pain-relief-devices",
+            "title": "Collections"
+          }
+        },
+        "collection_9DeWH4": {
+          "type": "collection",
+          "settings": {
+            "collection": "wellness-devices",
+            "title": "Collections"
+          }
+        },
+        "collection_pCTECG": {
+          "type": "collection",
+          "settings": {
+            "collection": "therapy-devices",
+            "title": "Collections"
+          }
+        },
+        "collection_h89WfD": {
+          "type": "collection",
+          "settings": {
+            "collection": "men-s",
+            "title": "Collections"
+          }
+        },
+        "collection_739ttk": {
+          "type": "collection",
+          "settings": {
+            "collection": "women",
+            "title": "Collections"
+          }
+        },
+        "collection_gWnfY6": {
+          "type": "collection",
+          "settings": {
+            "collection": "others",
+            "title": "Collections"
+          }
+        }
+      },
+      "block_order": [
+        "collection_QKkcCk",
+        "collection_9DeWH4",
+        "collection_pCTECG",
+        "collection_h89WfD",
+        "collection_739ttk",
+        "collection_gWnfY6"
+      ],
+      "settings": {
+        "title": "Shop By Category",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": true,
+        "show_border": true,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "media_grid_6FR8Ua": {
+      "type": "media-grid",
+      "blocks": {
+        "media_M84qk4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.44.50_PM.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 3,
+            "subheading": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-center items-center",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 15
+          }
+        },
+        "media_NjKPJT": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.40.48_PM.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_aL3Rtf": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.41.08_PM.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_Mem9zg": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.41.18_PM.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_A3qi7F": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.41.29_PM.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_w6zRxY": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.41.43_PM.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_TbHaBp": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.42.06_PM.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "media_M84qk4",
+        "media_NjKPJT",
+        "media_aL3Rtf",
+        "media_Mem9zg",
+        "media_A3qi7F",
+        "media_w6zRxY",
+        "media_TbHaBp"
+      ],
+      "settings": {
+        "title": "Shop",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": true,
+        "gallery_cols_min": "2",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#000000"
+      }
+    },
+    "recently_viewed_4q7Bxy": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "heading": "Recent Search",
+        "heading_align": "text-start",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "limit": 8
+      }
+    },
+    "image_banner_Cr9jKV": {
+      "type": "image-banner",
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.36.36_PM.png",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "image_banner_K743AH": {
+      "type": "image-banner",
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/Screenshot_2024-06-13_at_2.37.18_PM.png",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "featured_collection_gdPcCT": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Launches",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "new-launches",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "medium",
+        "products_to_show": 6,
+        "show_promo_info": false,
+        "image_ratio": "1",
+        "promo_title": "",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.<\/p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "3",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "slideshow_jLt48W": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MkcWHi": {
+          "type": "slide",
+          "settings": {
+            "url": "",
+            "overlay_position": "justify-center items-start",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Flash Sale",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Hurry! Offers end soon<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_2_label": "Shop Flash Sale",
+            "button_2_link": "#",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": true,
+            "countdown_end_date": "2024-07-06",
+            "countdown_end_time": "12:00",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_MkcWHi"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "testimonials_yhkFH6": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_QdYkpj": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>“My doctor recommended this for my chronic back pain. I have never had any success with any procedure or other similar types of therapy. So, I was surprised that this simple device actually helped my back pain! I recommend this product, it is simply amazing! Worth every penny!”<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "author_image": "shopify:\/\/shop_images\/513IGKk-EPL._SX679.jpg",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "testimonial_DE3T4A": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>“Melted the small swellings of many years in the lower back which I thought were bones. Pain is gone, although believe fat will get collected there again, which can be again melted.”<br\/><\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "testimonial_wLNJK6": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>“After I was diagnosed with Sciatica, getting back to my daily routine almost seemed to be impossible. SONICTENS worked wonderfully on Sciatica. Today, I am grateful that I bought SONICTENS as its combined therapy; ultrasound and TENS fastens the healing period naturally without any side-effects.”<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_QdYkpj",
+        "testimonial_DE3T4A",
+        "testimonial_wLNJK6"
+      ],
+      "settings": {
+        "heading": "Customer Reviews",
+        "show_quotes": false,
+        "testimonial_size": "h6",
+        "text_position": "justify-center",
+        "text_align": "text-start justify-start",
+        "nav_style": "slideshow_nav_dots",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": true,
+        "autoplay_speed": 4,
+        "color_scheme": "3",
+        "full_width": true
+      }
+    },
+    "logo_list_Wkg9Kw": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_ajBD6t": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_BJ4rqa": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_DD4NCN": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_mERi3C": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_NPzMCp": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_ApXtaA": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_QE4f6n": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_tjLVMa": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_wifpU3": {
+          "type": "logo",
+          "settings": {
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_ajBD6t",
+        "logo_BJ4rqa",
+        "logo_DD4NCN",
+        "logo_mERi3C",
+        "logo_NPzMCp",
+        "logo_ApXtaA",
+        "logo_QE4f6n",
+        "logo_tjLVMa",
+        "logo_wifpU3"
+      ],
+      "settings": {
+        "title": "Logo list",
+        "heading_align": "text-start",
+        "button_label": "Optional link",
+        "button_link": "",
+        "layout": "carousel",
+        "spacing": 40,
+        "logo_grid_align": "justify-center",
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "shoppable_image_mHiwad": {
+      "type": "shoppable-image",
+      "blocks": {
+        "hotspot_VEK8rC": {
+          "type": "hotspot",
+          "settings": {
+            "product": "",
+            "hotspot_x": 50,
+            "hotspot_y": 50
+          }
+        },
+        "hotspot_UMyp4j": {
+          "type": "hotspot",
+          "settings": {
+            "product": "moi-plus",
+            "hotspot_x": 39,
+            "hotspot_y": 38
+          }
+        },
+        "hotspot_xiE8Xa": {
+          "type": "hotspot",
+          "settings": {
+            "product": "ultragun-pro",
+            "hotspot_x": 39,
+            "hotspot_y": 14
+          }
+        },
+        "hotspot_kmJK8A": {
+          "type": "hotspot",
+          "settings": {
+            "product": "ultragun",
+            "hotspot_x": 34,
+            "hotspot_y": 30
+          }
+        },
+        "hotspot_3AgAP9": {
+          "type": "hotspot",
+          "settings": {
+            "product": "tens-2",
+            "hotspot_x": 45,
+            "hotspot_y": 37
+          }
+        },
+        "hotspot_VD3KeM": {
+          "type": "hotspot",
+          "settings": {
+            "product": "sonictens",
+            "hotspot_x": 43,
+            "hotspot_y": 46
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_VEK8rC",
+        "hotspot_UMyp4j",
+        "hotspot_xiE8Xa",
+        "hotspot_kmJK8A",
+        "hotspot_3AgAP9",
+        "hotspot_VD3KeM"
+      ],
+      "settings": {
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-17_at_3.10.09_PM.png",
+        "layout": "image_first",
+        "show_vendor": false,
+        "show_content": true,
+        "mob_center_text": true,
+        "heading": "Shoppable image",
+        "text": "<p>Create a Shop the Look section to assist with upselling or helping customers with purchasing complementary products.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#ffffff",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "media_with_text_xfimAU": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_ca69QH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_TacHxc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The TENS machine works on two theories. One is Gate Control Theory where the electrical impulses interfere with the neural mechanism in the spinal cord that acts as a kind of gate and helps block the transmission of pain messages to the brain. Another theory is called The Endorphin Release, which suggests that electrical impulses stimulate the production of higher levels of endorphins – the body’s natural pain killer that blocks pain messages from reaching the brain without any side effects.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "button_KMRHKL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "#",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ca69QH",
+        "text_TacHxc",
+        "button_KMRHKL"
+      ],
+      "settings": {
+        "video_external": "https:\/\/youtu.be\/6Sb1BqlYBWA",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "promo_grid_ezrQmk": {
+      "type": "promo-grid",
+      "blocks": {
+        "media_hjfp7q": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23bc0f328afc42e2e563b0e94c26afea.w6250.h3125._SL5000_CR0_0_5000_2500_SX960_SY480.jpg",
+            "link_url": "shopify:\/\/collections\/lighting",
+            "columns": 2,
+            "rows": 1,
+            "line1_text": "",
+            "line1_text_type_scale": "text-h6",
+            "line2_text": "",
+            "line2_text_type_scale": "text-h6",
+            "line3_text": "",
+            "line3_text_type_scale": "text-h6",
+            "overlay_position": "justify-end items-start",
+            "text_alignment": "text-start",
+            "promo_circle": false,
+            "background_color": "#927747",
+            "text_color": "#ffffff",
+            "subheading": "",
+            "link_text": "",
+            "text_type_scale": "h6",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_jY7mKm": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/95f27032f60f6bd71e6703950122040e.w6250.h3125._SL5000_CR0_0_5000_2500_SX960_SY480.jpg",
+            "link_url": "shopify:\/\/collections\/furnitures",
+            "columns": 2,
+            "rows": 1,
+            "line1_text": "",
+            "line1_text_type_scale": "text-h6",
+            "line2_text": "",
+            "line2_text_type_scale": "text-h3",
+            "line3_text": "",
+            "line3_text_type_scale": "text-h6",
+            "overlay_position": "justify-start items-start",
+            "text_alignment": "text-start",
+            "promo_circle": false,
+            "background_color": "#927747",
+            "text_color": "#ffffff",
+            "subheading": "",
+            "link_text": "",
+            "text_type_scale": "h6",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_hjfp7q",
+        "media_jY7mKm"
+      ],
+      "settings": {
+        "title": "Lorem ipsum",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 200,
+        "fixed_height_mobile": 150,
+        "text_overlay_font": "body",
+        "color_scheme": "default"
+      }
+    },
+    "multi-column": {
+      "type": "multi-column",
+      "blocks": {
+        "multi-column-0": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify:\/\/shop_images\/61niJUSHJaL._SX679.jpg",
+            "media_scale": 90,
+            "heading": "Ultrasound Machine For Physiotherapy",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "multi-column-1": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify:\/\/shop_images\/513IGKk-EPL._SX679.jpg",
+            "media_scale": 90,
+            "heading": "Dining & Kitchen",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "multi-column-2": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify:\/\/shop_images\/61BjMDXbtzL._SX679_72b8e033-2ecf-449f-bd4c-cdd99cc6c0bd.jpg",
+            "media_scale": 90,
+            "heading": "Bedroom",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "multi-column-3": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify:\/\/shop_images\/61Ejr6aYmoL._SX679.jpg",
+            "media_scale": 90,
+            "heading": "Study & Office",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "multi-column-0",
+        "multi-column-1",
+        "multi-column-2",
+        "multi-column-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop For",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "small",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "3",
+        "button_style": "link"
+      }
+    },
+    "countdown-timer": {
+      "type": "countdown-timer",
+      "blocks": {
+        "countdown-heading-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Countdown timer",
+            "heading_size": "h2"
+          }
+        },
+        "countdown-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create urgency around an offer or event!<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "button_9qePgh": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Shop Flash Sale",
+            "button_1_link": "#",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        },
+        "countdown-countdown-2": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "2024-09-12",
+            "end_time": "",
+            "end_text": "",
+            "enlarge_end_text": true,
+            "hide_on_end": true
+          }
+        }
+      },
+      "block_order": [
+        "countdown-heading-0",
+        "countdown-text-1",
+        "button_9qePgh",
+        "countdown-countdown-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_12_3e7e7ed4-bc0c-4005-b274-4ec1c11d50dc.png",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "countdown_size": "21",
+        "use_custom_colors": true,
+        "count_color": "#ffffff",
+        "bg_color": "#070707",
+        "color_scheme": "2",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 20
+      }
+    },
+    "media-with-text": {
+      "type": "media-with-text",
+      "blocks": {
+        "media-with-text-heading-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "media-with-text-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pain after a fall or an injury, a muscle cramp, any chronic joint pain or a minor sprain, we all encounter pain in some form on a daily basis. And what do we do? Either try some temporary relief methods and get rid of it or keep experimenting different treatment methods and end up living popping pills, injecting steroids, moving with a strap or the worst, say yes to the surgery and struggle with the side effects of all for a lifetime. That’s where we, UltraCare PRO come with 100% natural and complete pain-relieving solutions.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "media-with-text-button-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "\/",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "media-with-text-heading-0",
+        "media-with-text-text-1",
+        "media-with-text-button-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/b94dfa3f-d3fa-4f41-95da-70016723f83d.__CR0_0_301_301_PT0_SX300_V1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_pXwmx4": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_3g9gLd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Personalized Support",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_LGENyU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you feel no reduction in pain after using our product continuously for a week, let us know, we will help you with our free expert consultation service.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "button_xErFt4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Let us know your concern",
+            "button_link": "\/",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3g9gLd",
+        "text_LGENyU",
+        "button_xErFt4"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/still-suffering-from-img.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 54,
+        "media_scale": 66,
+        "text_align": "text-start",
+        "color_scheme": "3",
+        "only_content_color_scheme": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "media_grid_6FR8Ua",
+    "recently_viewed_4q7Bxy",
+    "image_banner_Cr9jKV",
+    "image_banner_K743AH",
+    "featured_collection_gdPcCT",
+    "slideshow_jLt48W",
+    "testimonials_yhkFH6",
+    "logo_list_Wkg9Kw",
+    "shoppable_image_mHiwad",
+    "media_with_text_xfimAU",
+    "promo_grid_ezrQmk",
+    "multi-column",
+    "countdown-timer",
+    "media-with-text",
+    "media_with_text_pXwmx4"
+  ]
+}
